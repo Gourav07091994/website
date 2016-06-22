@@ -1,0 +1,76 @@
+body{
+  background: #F5FFFA	;
+}
+header h1{
+
+  font-size: 60px;
+  font-family: 'Noto Sans', sans-serif;
+  letter-spacing: -1px;
+  color: red;
+  text-shadow: 1px -1px 0 white;
+
+}
+.wrap{
+  margin-top: 10px;
+
+}
+
+a{
+  color:rbs(255,0,255);
+  text-decoration: none;
+}
+
+.grid_4 a:hover{
+  color: black;
+  text-decoration: underline;
+}
+nav li{
+  display: inline;
+  text-decoration: none;
+}
+
+.image{
+  margin: auto;
+}
+
+.text h2{
+  padding: 10px;
+}
+.text p,ol{
+  font-family: cursive;
+}
+.text h4{
+  font-family: 'Montserrat', sans-serif;
+}
+article img{
+  float: left;
+
+}
+.preview{
+  float: right;
+  width: 400px;
+
+}
+
+h2{
+  font-family:serif;;
+  line-height: 1em;
+}
+.solid{
+
+ clear: both;
+}
+article a{
+  float: right;
+}
+.mytext .grid_6{
+  margin-top: 30px;
+}
+.mytext{
+  background: lightgrey;
+  color: grey;
+}
+.mytext a:hover{
+  color: black;
+}
+}
